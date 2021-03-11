@@ -1,23 +1,23 @@
 
-]
-java:S1854";Remove this useless assignment to local variable "capital".(Ó½¯çşÿÿÿÿ8ø€Ï‘‚/
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¶©¦ıÿÿÿÿ8ø€Ï‘‚/
-U	java:S106%"9Replace this use of System.out or System.err by a logger.( ­ƒ8ì´•‚/
-\
-java:S1854"?Remove this useless assignment to local variable "taxaDiÃ¡ria".(Çğ‹¥8Ñ½¬•‚/
 N
 java:S1481",Remove this unused "capital" local variable.(Ó½¯çşÿÿÿÿ8ø€Ï‘‚/
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¨×Èøÿÿÿÿ8ø€Ï‘‚/
-U	java:S106$"9Replace this use of System.out or System.err by a logger.(Å„˜£8ì´•‚/
-a
-java:S1854"?Remove this useless assignment to local variable "taxasSalvas".(×¨‹Çıÿÿÿÿ8áŒ“‚/
+]
+java:S1854";Remove this useless assignment to local variable "capital".(Ó½¯çşÿÿÿÿ8ø€Ï‘‚/
 Q
 java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8áŒ“‚/
-R
-java:S1481"0Remove this unused "taxasSalvas" local variable.(×¨‹Çıÿÿÿÿ8áŒ“‚/
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ¿ŸÒıÿÿÿÿ
+U	java:S106%"9Replace this use of System.out or System.err by a logger.( ­ƒ8ì´•‚/
 R
 java:S1481"0Remove this unused "taxaDiÃ¡ria" local variable.(†¶©¦ıÿÿÿÿ8»³¢•‚/
-U	java:S106#"9Replace this use of System.out or System.err by a logger.(‘šÚÚ8ì´•‚/
+R
+java:S1481"0Remove this unused "taxasSalvas" local variable.(×¨‹Çıÿÿÿÿ8áŒ“‚/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¨×Èøÿÿÿÿ8ø€Ï‘‚/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¶©¦ıÿÿÿÿ8ø€Ï‘‚/
+a
+java:S1854"?Remove this useless assignment to local variable "taxasSalvas".(×¨‹Çıÿÿÿÿ8áŒ“‚/
 L
 java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8Øû®’‚/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ¿ŸÒıÿÿÿÿ
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(Å„˜£8ì´•‚/
+\
+java:S1854"?Remove this useless assignment to local variable "taxaDiÃ¡ria".(Çğ‹¥8Ñ½¬•‚/
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(‘šÚÚ8ì´•‚/

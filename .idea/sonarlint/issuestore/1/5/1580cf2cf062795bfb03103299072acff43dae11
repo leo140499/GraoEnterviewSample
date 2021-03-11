@@ -1,0 +1,10 @@
+
+W	java:S125"<This block of commented-out lines of code should be removed.(Á‰‚8½Ù×ø/
+N
+java:S1481	",Remove this unused "capital" local variable.(Ó½¯çşÿÿÿÿ8²Üõ/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¶©¦ıÿÿÿÿ8‡¨ô/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ¿ŸÒıÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ùäÁ8†÷×ø/
+]
+java:S1854	";Remove this useless assignment to local variable "capital".(Ó½¯çşÿÿÿÿ8²Üõ/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¨×Èøÿÿÿÿ8Õ€¹ò/
